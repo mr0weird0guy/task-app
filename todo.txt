@@ -1,0 +1,4 @@
+rate limit on the number of login/register attempts
+Email Varification
+password reset via email
+test both frontend and backend
