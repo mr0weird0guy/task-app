@@ -2,7 +2,7 @@ import type { AuthTokens } from "@/types";
 import { authApi } from "./authApi";
 import { tasksApi } from "./tasksApi";
 
-const BASE_URL = process.env.NEXT_PUBLIC_API_URL ?? "http://localhost:3000";
+const BASE_URL = process.env.NEXT_PUBLIC_API_URL ?? "http://localhost:4000";
 
 //  Token storage (client-side only)
 
